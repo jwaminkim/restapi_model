@@ -10,7 +10,7 @@ public class TestModel {
 		
 		this.Name = "김좌민";
 		this.Id = "jwaminkim";
-		this.Nick = "123";		
+		this.Nick = "456";		
 				
 	}
 
